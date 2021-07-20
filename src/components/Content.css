@@ -1,0 +1,12 @@
+img {
+    float: left;
+    width:  327px;
+    height: 327px;
+    object-fit: cover;
+    margin: 2px;
+    
+}
+.container1{
+   margin: 10px;
+
+}
